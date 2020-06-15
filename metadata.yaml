@@ -1,0 +1,34 @@
+_repo: Stonehenge-and-Other-British-Stone-Monuments-Astronomically-Considered_62342
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lockyer, Norman, Sir
+    aliases:
+    - Lockyer, Joseph Norman, Sir
+    - Lockyer, J. Norman (Joseph Norman), Sir
+    - Lockyer, J. N. (Joseph Norman), Sir
+    birthdate: 1836
+    deathdate: 1920
+    gutenberg_agent_id: '47246'
+    url: http://www.gutenberg.org/2009/agents/47246
+    wikipedia: https://en.wikipedia.org/wiki/Norman_Lockyer
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62342'
+  lccn: 07004831
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Druids and Druidism'
+- !lcsh 'Sun worship'
+- !lcc 'GN'
+- !lcsh 'Stonehenge (England)'
+- !lcsh 'Temples'
+- !lcsh 'Great Britain -- Antiquities'
+- GITenberg
+title: Stonehenge and Other British Stone Monuments Astronomically Considered
+url: http://www.gutenberg.org/ebooks/62342
